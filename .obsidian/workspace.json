@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "73ae2ede3a6738b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cfad743b18191c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df9cfa4617f78ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/RConsortiumpharma-skills A collection of agent skills for BioPharma use cases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RConsortiumpharma-skills A collection of agent skills for BioPharma use cases"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de66b1a8fc84c9cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e00b11c7557d3401",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c28c957fe0537bae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7b1b06708bf7661f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e0b80ff55adad721",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6389de2429d58ad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e49be1da3648780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4251cde045b2390a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "821c777dd81dd4be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/SDTM programming in R using {sdtm.oak} package.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SDTM programming in R using {sdtm.oak} package"
+            }
+          },
+          {
+            "id": "e4e5bc11a050b30a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e68110b348cb1eaf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c7fa904a55b53002",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/RConsortiumpharma-skills A collection of agent skills for BioPharma use cases.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RConsortiumpharma-skills A collection of agent skills for BioPharma use cases"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "df9cfa4617f78ff5",
+  "lastOpenFiles": [
+    "raw/SDTM programming in R using {sdtm.oak} package.md",
+    "raw/Untitled 1.md",
+    "raw/Untitled.md",
+    "Untitled.base",
+    "2026-04-27.md",
+    "raw/sources/karpathy-llm-wiki.md",
+    "CLAUDE.md",
+    "raw/sources/Claude Code.md",
+    "wiki/templates/concept-page.md",
+    "wiki/templates/topic-page.md",
+    "wiki/templates/source-summary.md",
+    "wiki/templates/entity-page.md",
+    "raw/RConsortiumpharma-skills A collection of agent skills for BioPharma use cases.md",
+    "wiki/index.md",
+    "wiki/concepts/llm-wiki-pattern.md",
+    "wiki/concepts/sdtm-oak.md",
+    "wiki/concepts/cdisc-sdtm.md",
+    "wiki/entities/pharmaverse.md",
+    "wiki/log.md",
+    "Andrej Karpathy.md",
+    "readme.md",
+    "Karpathy — LLM Wiki Pattern.md",
+    "LLM Wiki Pattern.md",
+    "wiki/index.md.tmp.8452.1777317762684",
+    "wiki/sources/sdtm-oak-r-in-pharma-workshop.md",
+    "wiki/sources/karpathy-llm-wiki-pattern.md",
+    "wiki/entities/sdtm-oak-r-package.md",
+    "wiki/entities/rammprasad-ganapathy.md",
+    "wiki/index.md.tmp.8452.1777317750952",
+    "Untitled 2.base",
+    "Untitled 1.canvas",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "plots/Thumbs.db",
+    "Untitled 3.base",
+    "Clippings",
+    "plots/plot_6b86b273_1_20260427140249.jpg",
+    "plots/plot_6b86b273_1_20260427140241.jpg",
+    "plots/plot_6b86b273_1_20260427140226.jpg",
+    "plots/plot_6b86b273_1_20260427140143.jpg",
+    "plots/plot_6b86b273_1_20260427135954.jpg",
+    "plots"
+  ]
+}

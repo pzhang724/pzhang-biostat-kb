@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude --version)",
+      "Bash(gh auth status)",
+      "Bash(git push -u origin claude/ingest-sdtm-oak-workshop)",
+      "Bash(gh pr *)"
+    ]
+  }
+}
