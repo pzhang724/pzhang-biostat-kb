@@ -27,3 +27,12 @@ grep "lint" wiki/log.md                # all lint passes
 - Pages created: `wiki/sources/karpathy-llm-wiki-pattern.md`, `wiki/concepts/llm-wiki-pattern.md`, `wiki/entities/andrej-karpathy.md`
 - Pages updated: `wiki/index.md`
 - Notes: Founding source for this wiki's architecture. The LLM Wiki pattern itself is the meta-framework governing how this knowledge base operates. No biostatistics content yet — this is purely infrastructure.
+
+---
+
+## [2026-04-27] ingest | SDTM Programming in R using {sdtm.oak} Package
+
+- Source: `raw/SDTM programming in R using {sdtm.oak} package.md`
+- Pages created: `wiki/sources/sdtm-oak-r-in-pharma-workshop.md`, `wiki/concepts/cdisc-sdtm.md`, `wiki/concepts/sdtm-oak.md`, `wiki/entities/sdtm-oak-r-package.md`, `wiki/entities/pharmaverse.md`, `wiki/entities/rammprasad-ganapathy.md`
+- Pages updated: `wiki/index.md`
+- Notes: First biostatistics/clinical data content in the wiki. Source is a 95KB YouTube workshop transcript (R in Pharma 2026). Key contribution: detailed coverage of all 8 sdtm.oak algorithms and the OKD variable concept. Lab unit standardization flagged as an open gap. Raw file is in `raw/` (not `raw/sources/`) — consider moving for consistency.
