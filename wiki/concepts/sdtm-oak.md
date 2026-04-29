@@ -115,4 +115,4 @@ cm <- bind_rows(cm_trt, cm_other_topic) |>
 
 ## Key References
 
-- [[SDTM Programming in R using {sdtm.oak} Package]] — foundational workshop with worked examples across CM, VS, AE, DM domains
+- [[SDTM programming in R using {sdtm.oak} package]] — foundational workshop with worked examples across CM, VS, AE, DM domains

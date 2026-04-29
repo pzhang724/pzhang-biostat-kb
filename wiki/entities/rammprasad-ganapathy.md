@@ -24,4 +24,4 @@ sources: 1
 
 - Part of: [[Pharmaverse]] contributor community
 - Collaborators: Roche, Pfizer, GSK, and other pharma contributors to sdtm.oak
-- Source: [[SDTM Programming in R using {sdtm.oak} Package]]
+- Source: [[SDTM programming in R using {sdtm.oak} package]]
