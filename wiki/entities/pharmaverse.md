@@ -3,8 +3,8 @@ title: "Pharmaverse"
 type: entity
 tags: [organization, r-package, clinical-data, cdisc, open-source]
 created: 2026-04-27
-updated: 2026-04-27
-sources: 1
+updated: 2026-04-29
+sources: 2
 ---
 
 # Pharmaverse
@@ -46,4 +46,7 @@ The ecosystem enables pharmaceutical companies to replace SAS-based workflows wi
 
 - Contains: [[sdtm.oak R Package]]
 - Related concept: [[CDISC SDTM]]
-- Source: [[SDTM Programming in R using {sdtm.oak} Package]]
+- Output format: [[Dataset-JSON]] (R Consortium Pilot 5 demonstrated Pharmaverse packages producing Dataset-JSON)
+- Validation context: [[R Validation Hub]] and [[riskmetric R Package]] assess Pharmaverse package quality
+- Source: [[SDTM programming in R using {sdtm.oak} package]]
+- Related topic: [[Regulatory Data Submission Standards]], [[R Package Validation in Regulated Environments]]
