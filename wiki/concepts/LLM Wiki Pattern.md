@@ -1,5 +1,6 @@
 ---
 title: "LLM Wiki Pattern"
+aliases: ["LLM Wiki Pattern"]
 type: concept
 tags: [knowledge-management, llm-tooling, meta, architecture]
 created: 2026-04-27
@@ -57,7 +58,7 @@ Periodic health check: find contradictions, orphan pages, stale claims, missing 
 
 ## Workflow Tooling (Recommended)
 
-- **[[Obsidian]]** — IDE for browsing the wiki; graph view shows link structure, orphan pages, hubs
+- **Obsidian** — IDE for browsing the wiki; graph view shows link structure, orphan pages, hubs
 - **Obsidian Web Clipper** — browser extension to convert articles to markdown for `raw/sources/`
 - **qmd** — local hybrid BM25/vector search for markdown, with CLI + MCP interface; useful at scale (>100 sources)
 - **Marp** — markdown-based slide decks; Obsidian plugin available

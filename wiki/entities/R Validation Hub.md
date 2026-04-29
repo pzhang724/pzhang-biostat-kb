@@ -1,5 +1,6 @@
 ---
 title: "R Validation Hub"
+aliases: ["R Validation Hub"]
 type: entity
 tags: [organization, r-validation, pharmar, regulatory, open-source, r-package]
 created: 2026-04-29

@@ -1,5 +1,6 @@
 ---
 title: "Karpathy — LLM Wiki Pattern"
+aliases: ["Karpathy — LLM Wiki Pattern"]
 type: source
 tags: [knowledge-management, llm-tooling, meta, obsidian]
 created: 2026-04-27

@@ -1,5 +1,6 @@
 ---
 title: "openstatsware"
+aliases: ["openstatsware"]
 type: entity
 tags: [organization, asa, psi, efspi, software-engineering, r-package, pharma]
 created: 2026-04-29

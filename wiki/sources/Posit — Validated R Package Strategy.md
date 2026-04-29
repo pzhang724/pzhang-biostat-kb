@@ -1,5 +1,6 @@
 ---
 title: "Posit — Validated R Package Strategy"
+aliases: ["Posit — Validated R Package Strategy"]
 type: source
 tags: [r-validation, posit, package-management, regulatory, reproducibility]
 created: 2026-04-29

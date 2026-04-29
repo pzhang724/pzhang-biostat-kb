@@ -1,5 +1,6 @@
 ---
 title: "CAMIS Working Group"
+aliases: ["CAMIS Working Group"]
 type: entity
 tags: [organization, phuse, psi, asa, statistical-methods, cross-language, r, sas, python]
 created: 2026-04-29

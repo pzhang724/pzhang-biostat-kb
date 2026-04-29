@@ -1,5 +1,6 @@
 ---
 title: "riskmetric R Package"
+aliases: ["riskmetric R Package"]
 type: entity
 tags: [r-package, r-validation, pharmar, regulatory, package-quality]
 created: 2026-04-29

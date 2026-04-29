@@ -1,5 +1,6 @@
 ---
 title: "sdtm.oak Programming Framework"
+aliases: ["sdtm.oak Programming Framework"]
 type: concept
 tags: [sdtm, cdisc, r-package, clinical-data, pharmaverse]
 created: 2026-04-27

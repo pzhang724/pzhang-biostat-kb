@@ -1,5 +1,6 @@
 ---
 title: "Cross-Language Statistical Implementations (R, SAS, Python)"
+aliases: ["Cross-Language Statistical Implementations (R, SAS, Python)"]
 type: topic
 tags: [r, sas, python, statistical-methods, camis, cross-language, regulatory, dual-programming]
 created: 2026-04-29

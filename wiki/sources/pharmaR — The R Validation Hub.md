@@ -1,5 +1,6 @@
 ---
 title: "pharmaR — The R Validation Hub"
+aliases: ["pharmaR — The R Validation Hub"]
 type: source
 tags: [r-validation, pharmar, riskmetric, regulatory, open-source, r-package]
 created: 2026-04-29

@@ -1,5 +1,6 @@
 ---
 title: "IND Safety Reporting"
+aliases: ["IND Safety Reporting"]
 type: concept
 tags: [fda, regulatory, safety, pharmacovigilance, ind, clinical-trials, adverse-events]
 created: 2026-04-29

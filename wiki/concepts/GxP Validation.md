@@ -1,5 +1,6 @@
 ---
 title: "GxP Validation"
+aliases: ["GxP Validation"]
 type: concept
 tags: [gxp, validation, fda, regulatory, sdlc, gamp, clinical-software, r]
 created: 2026-04-29

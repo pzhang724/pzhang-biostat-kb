@@ -1,5 +1,6 @@
 ---
 title: "CDISC SDTM"
+aliases: ["CDISC SDTM"]
 type: concept
 tags: [cdisc, sdtm, clinical-data, data-standards, regulatory]
 created: 2026-04-27
@@ -52,7 +53,7 @@ SDTM datasets follow the **SDTM Implementation Guide (SDTMIG)**, which specifies
 
 ## Estimation
 
-SDTM is not an analytical model — it is a data representation standard. However, programming SDTM correctly is prerequisite to downstream [[ADaM]] dataset creation and analysis.
+SDTM is not an analytical model — it is a data representation standard. However, programming SDTM correctly is prerequisite to downstream ADaM dataset creation and analysis.
 
 ## Software
 

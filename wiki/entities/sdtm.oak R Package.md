@@ -1,5 +1,6 @@
 ---
 title: "sdtm.oak R Package"
+aliases: ["sdtm.oak R Package"]
 type: entity
 tags: [r-package, sdtm, cdisc, clinical-data, pharmaverse]
 created: 2026-04-27

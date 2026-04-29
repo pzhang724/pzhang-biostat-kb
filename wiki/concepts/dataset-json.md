@@ -1,5 +1,6 @@
 ---
 title: "Dataset-JSON"
+aliases: ["Dataset-JSON"]
 type: concept
 tags: [cdisc, data-standards, regulatory-submission, json, xpt, r-consortium]
 created: 2026-04-29

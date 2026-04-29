@@ -1,5 +1,6 @@
 ---
 title: "Regulatory Data Submission Standards"
+aliases: ["Regulatory Data Submission Standards"]
 type: topic
 tags: [regulatory, fda, cdisc, sdtm, adam, dataset-json, xpt, submission, data-standards]
 created: 2026-04-29

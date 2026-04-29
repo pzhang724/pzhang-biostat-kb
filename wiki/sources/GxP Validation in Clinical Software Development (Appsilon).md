@@ -1,5 +1,6 @@
 ---
 title: "GxP Validation in Clinical Software Development (Appsilon)"
+aliases: ["GxP Validation in Clinical Software Development (Appsilon)"]
 type: source
 tags: [gxp, validation, fda, regulatory, sdlc, software-engineering, r]
 created: 2026-04-29

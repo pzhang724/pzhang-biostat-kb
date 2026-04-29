@@ -1,5 +1,6 @@
 ---
 title: "Rammprasad Ganapathy"
+aliases: ["Rammprasad Ganapathy"]
 type: entity
 tags: [person, sdtm, cdisc, r-package, pharmaverse]
 created: 2026-04-27

@@ -1,5 +1,6 @@
 ---
 title: "Andrej Karpathy"
+aliases: ["Andrej Karpathy"]
 type: entity
 tags: [person, ai-researcher, deep-learning]
 created: 2026-04-27

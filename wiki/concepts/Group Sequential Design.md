@@ -1,5 +1,6 @@
 ---
 title: "Group Sequential Design"
+aliases: ["Group Sequential Design"]
 type: concept
 tags: [group-sequential, adaptive-design, interim-analysis, clinical-trials, alpha-spending, survival]
 created: 2026-04-29
