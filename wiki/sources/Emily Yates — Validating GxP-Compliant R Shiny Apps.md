@@ -1,5 +1,6 @@
 ---
 title: "Emily Yates — Validating GxP-Compliant R Shiny Apps"
+aliases: ["Emily Yates — Validating GxP-Compliant R Shiny Apps"]
 type: source
 tags: [gxp, r-shiny, validation, sdlc, gamp, pharmaverse, r-in-pharma]
 created: 2026-04-29

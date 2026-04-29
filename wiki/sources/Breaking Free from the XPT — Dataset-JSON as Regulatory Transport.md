@@ -1,5 +1,6 @@
 ---
 title: "Breaking Free from the XPT — Dataset-JSON as Regulatory Transport"
+aliases: ["Breaking Free from the XPT — Dataset-JSON as Regulatory Transport"]
 type: source
 tags: [cdisc, dataset-json, xpt, regulatory-submission, r-consortium, pharmaverse, data-standards]
 created: 2026-04-29

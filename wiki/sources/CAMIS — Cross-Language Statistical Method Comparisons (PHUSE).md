@@ -1,5 +1,6 @@
 ---
 title: "CAMIS — Cross-Language Statistical Method Comparisons (PHUSE)"
+aliases: ["CAMIS — Cross-Language Statistical Method Comparisons (PHUSE)"]
 type: source
 tags: [camis, phuse, r, sas, python, statistical-methods, cross-language, regulatory]
 created: 2026-04-29

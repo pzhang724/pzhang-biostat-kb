@@ -1,5 +1,6 @@
 ---
 title: "openstatsware — Statistical Software Engineering Working Group"
+aliases: ["openstatsware — Statistical Software Engineering Working Group"]
 type: source
 tags: [openstatsware, software-engineering, r-package, asa, psi, efspi, pharma]
 created: 2026-04-29

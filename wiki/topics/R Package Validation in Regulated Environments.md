@@ -1,5 +1,6 @@
 ---
 title: "R Package Validation in Regulated Environments"
+aliases: ["R Package Validation in Regulated Environments"]
 type: topic
 tags: [r-validation, gxp, regulatory, pharma, sdlc, r-package, fda, gamp]
 created: 2026-04-29

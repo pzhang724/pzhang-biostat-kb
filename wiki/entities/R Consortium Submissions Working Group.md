@@ -1,5 +1,6 @@
 ---
 title: "R Consortium Submissions Working Group"
+aliases: ["R Consortium Submissions Working Group"]
 type: entity
 tags: [organization, r-consortium, regulatory-submission, fda, open-source, clinical-trials]
 created: 2026-04-29

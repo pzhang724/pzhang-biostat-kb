@@ -1,5 +1,6 @@
 ---
 title: "GSWEP4R Workshop — R Package Engineering Workflow"
+aliases: ["GSWEP4R Workshop — R Package Engineering Workflow"]
 type: source
 tags: [r-package, software-engineering, sdlc, validation, openstatsware, gswep4r]
 created: 2026-04-29

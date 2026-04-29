@@ -1,5 +1,6 @@
 ---
 title: "Pharmaverse"
+aliases: ["Pharmaverse"]
 type: entity
 tags: [organization, r-package, clinical-data, cdisc, open-source]
 created: 2026-04-27

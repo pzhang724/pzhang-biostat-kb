@@ -1,5 +1,6 @@
 ---
 title: "FDA Guidance — Oncology Radiopharmaceutical Dosage Optimization"
+aliases: ["FDA Guidance — Oncology Radiopharmaceutical Dosage Optimization"]
 type: source
 tags: [fda, regulatory, oncology, radiopharmaceuticals, dosage-optimization, clinical-development]
 created: 2026-04-29

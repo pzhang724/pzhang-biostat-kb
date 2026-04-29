@@ -1,5 +1,6 @@
 ---
 title: "datasetjson R Package"
+aliases: ["datasetjson R Package"]
 type: entity
 tags: [r-package, cdisc, dataset-json, regulatory-submission, r-consortium, atorus]
 created: 2026-04-29

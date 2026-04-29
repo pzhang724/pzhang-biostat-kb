@@ -1,5 +1,6 @@
 ---
 title: "Sponsor Responsibilities — IND Safety Reporting"
+aliases: ["Sponsor Responsibilities — IND Safety Reporting"]
 type: source
 tags: [fda, regulatory, safety-reporting, ind, pharmacovigilance]
 created: 2026-04-29
@@ -40,7 +41,7 @@ This FDA guidance document provides recommendations for sponsors and sponsor-inv
 
 - Regulatory context: [[FDA Study Data Technical Conformance Guide]]
 - Related concept: Good Pharmacovigilance Practices (GVP) — post-market safety surveillance
-- See also: [[GxP Validation in Clinical Software Development]] — software compliance in the same regulatory environment
+- See also: [[GxP Validation in Clinical Software Development (Appsilon)]] — software compliance in the same regulatory environment
 - Related topic: [[Regulatory Data Submission Standards]]
 
 ## Questions Raised

@@ -1,5 +1,6 @@
 ---
 title: "FDA Study Data Technical Conformance Guide"
+aliases: ["FDA Study Data Technical Conformance Guide"]
 type: source
 tags: [fda, regulatory, cdisc, sdtm, adam, data-standards, submission]
 created: 2026-04-29

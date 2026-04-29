@@ -1,5 +1,6 @@
 ---
 title: "R Consortium pharma-skills — BioPharma Agent Skills"
+aliases: ["R Consortium pharma-skills — BioPharma Agent Skills"]
 type: source
 tags: [r-consortium, ai-agents, group-sequential-design, clinical-trials, llm, pharma]
 created: 2026-04-29
