@@ -3,8 +3,8 @@ title: "CDISC SDTM"
 type: concept
 tags: [cdisc, sdtm, clinical-data, data-standards, regulatory]
 created: 2026-04-27
-updated: 2026-04-27
-sources: 1
+updated: 2026-04-29
+sources: 3
 ---
 
 # CDISC SDTM
@@ -73,6 +73,8 @@ SDTM is not an analytical model — it is a data representation standard. Howeve
 - Part of: [[Pharmaverse]] (R ecosystem for CDISC programming)
 - Downstream: ADaM datasets (analysis-ready) are built on top of SDTM
 - Validated by: Pinnacle 21 Community/Enterprise
+- Transport format: [[Dataset-JSON]] (emerging replacement for SAS XPT in FDA submissions)
+- Related topic: [[Regulatory Data Submission Standards]]
 
 ## Common Pitfalls
 
@@ -83,4 +85,7 @@ SDTM is not an analytical model — it is a data representation standard. Howeve
 
 ## Key References
 
-- [[SDTM Programming in R using {sdtm.oak} Package]] — workshop covering practical SDTM creation with `{sdtm.oak}`
+- [[SDTM programming in R using {sdtm.oak} package]] — workshop covering practical SDTM creation with `{sdtm.oak}`
+- [[FDA Study Data Technical Conformance Guide]] — regulatory mandate requiring SDTM for NDA/BLA submissions
+- [[Breaking Free from the XPT — Dataset-JSON as Regulatory Transport]] — transport format evolution; Dataset-JSON as XPT successor
+- [[Regulatory Data Submission Standards]] — topic synthesizing SDTM's role in the full submission stack
