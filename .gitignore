@@ -1,0 +1,12 @@
+# Obsidian workspace state (UI layout, plugin data, local settings)
+.obsidian/
+
+# Claude Code local settings and session data
+.claude/
+.claudian/
+
+# Obsidian trash
+.trash/
+
+# Scratch / untitled notes
+Untitled.md
