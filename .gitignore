@@ -10,3 +10,8 @@
 
 # Scratch / untitled notes
 Untitled.md
+
+# Quartz build output and cache
+public/
+.quartz-cache/
+node_modules/

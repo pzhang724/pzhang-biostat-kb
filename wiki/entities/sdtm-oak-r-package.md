@@ -49,4 +49,4 @@ sources: 1
 - Implements: [[sdtm.oak Programming Framework]], [[CDISC SDTM]]
 - Part of: [[Pharmaverse]] ecosystem
 - Downstream: `admiral` package (ADaM creation from SDTM)
-- Source: [[SDTM Programming in R using {sdtm.oak} Package]]
+- Source: [[SDTM programming in R using {sdtm.oak} package]]
