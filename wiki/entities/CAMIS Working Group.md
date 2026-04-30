@@ -4,8 +4,8 @@ aliases: ["CAMIS Working Group"]
 type: entity
 tags: [organization, phuse, psi, asa, statistical-methods, cross-language, r, sas, python]
 created: 2026-04-29
-updated: 2026-04-29
-sources: 1
+updated: 2026-04-30
+sources: 2
 ---
 
 # CAMIS Working Group
@@ -24,7 +24,7 @@ CAMIS systematically documents and explains numerical differences in statistical
 
 ### Coverage
 
-The CAMIS repository covers 60+ methods across categories:
+The CAMIS repository covers 66+ methods across categories:
 
 | Category | Examples |
 |----------|---------|
@@ -49,6 +49,6 @@ FDA's Statistical Software Clarifying Statement affirms that it does not require
 
 - Parallel initiative: [[openstatsware]] (software engineering practices)
 - Related entity: [[R Validation Hub]] (validation infrastructure)
-- Related source: [[CAMIS — Cross-Language Statistical Method Comparisons (PHUSE)]]
+- Related sources: [[CAMIS — Cross-Language Statistical Method Comparisons (PHUSE)]], [[CAMIS Method Repository — Full Coverage Table]]
 - Related topic: [[Cross-Language Statistical Implementations (R, SAS, Python)]]
 - Covers: [[Group Sequential Design]], [[CDISC SDTM]] (downstream methods)

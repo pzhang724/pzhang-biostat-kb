@@ -4,8 +4,8 @@ aliases: ["R Consortium Submissions Working Group"]
 type: entity
 tags: [organization, r-consortium, regulatory-submission, fda, open-source, clinical-trials]
 created: 2026-04-29
-updated: 2026-04-29
-sources: 1
+updated: 2026-04-30
+sources: 2
 ---
 
 # R Consortium Submissions Working Group
@@ -28,6 +28,8 @@ The working group has conducted a series of public, reproducible submission-like
 | Pilot 3 | 2023–2024 | ADaM datasets rebuilt in R; output still XPT |
 | Pilot 4 | 2023–2026 | Pilot 2 delivered as WebAssembly and container |
 | Pilot 5 | 2025–2026 | Full R pipeline; all datasets as Dataset-JSON v1.1 |
+| Pilot 6 | 2026–ongoing | TBD — launched 2026 |
+| Pilot 7 | 2026–ongoing | TBD — launched 2026 |
 
 Each Pilot is submitted via the FDA's eCTD portal and reviewed by actual FDA statisticians. Upon successful review, the FDA issues a "Statistical Review and Evaluation" recognition letter.
 
@@ -36,6 +38,7 @@ Each Pilot is submitted via the FDA's eCTD portal and reviewed by actual FDA sta
 - Provides public reference implementations that industry teams can fork and adapt
 - Directly engages FDA reviewers to surface practical issues (package installation, data format, derivation questions)
 - Pilot 5 (Dataset-JSON) was submitted Fall 2025 — the first public demonstration of a full Dataset-JSON submission pipeline in R
+- Pilots 6 and 7 launched 2026, expanding the scope of public R-based submission demonstrations
 
 ### Connections
 
