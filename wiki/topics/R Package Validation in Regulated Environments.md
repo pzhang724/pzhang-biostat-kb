@@ -2,10 +2,10 @@
 title: "R Package Validation in Regulated Environments"
 aliases: ["R Package Validation in Regulated Environments"]
 type: topic
-tags: [r-validation, gxp, regulatory, pharma, sdlc, r-package, fda, gamp]
+tags: [r-validation, gxp, regulatory, pharma, sdlc, r-package, fda, gamp, shiny, testing]
 created: 2026-04-29
-updated: 2026-04-29
-sources: 5
+updated: 2026-04-30
+sources: 9
 ---
 
 # R Package Validation in Regulated Environments
@@ -86,6 +86,24 @@ Layer 1: Validated environment
 - **Package update burden**: re-validating a package when it patches a bug — how much of the downstream validation is invalidated?
 - **Cross-language QC**: when primary analysis is R and QC is SAS (or vice versa), how should CAMIS-documented discrepancies appear in the ADRG?
 
+## Shiny App Validation
+
+Shiny applications deployed in GxP contexts face specific validation requirements beyond standard package validation. See [[Shiny App Testing in Pharma]] for the full framework. Key elements:
+
+- **Three-pillar approach** (Emily Yates, Formation Bio): validated environment (`{renv}`), risk-based packages (`{riskmetric}`/`{riskassessment}`), GAMP 5-aligned SDLC
+- **Test evidence layers**: unit tests (IQ/OQ), server function tests (OQ/PQ), snapshot tests via `{shinytest2}` (PQ), load tests via `shinyloadtest` (PQ)
+- **Definition of Done as GxP foundation** (Appsilon): Scrum DoD as living checklist — PR review, CI passing, documentation, reproducibility, data sources documented
+- **Coverage as dossier evidence**: `{covr}` generates line-by-line coverage reports usable as PQ evidence of test completeness
+- **Robust test patterns**: `data-testid` + `data-testtype` attributes + custom `ShinyDriver` R6 class (Sobolewski 2025) prevent test brittleness from UI refactors
+
+| Test Layer | Tool | Evidence Type | GxP Stage |
+|-----------|------|--------------|-----------|
+| Unit tests | `{testthat}` | Function correctness | IQ/OQ |
+| Server function tests | `{shiny}` testServer() | Reactive logic | OQ/PQ |
+| Snapshot / E2E | `{shinytest2}` | User-facing behavior | PQ |
+| Load tests | `shinyloadtest` | Performance at scale | PQ |
+| Coverage | `{covr}` | Test completeness | Dossier |
+
 ## Recommended Reading Order
 
 1. [[pharmaR — The R Validation Hub]] — start with the white paper framework
@@ -93,9 +111,15 @@ Layer 1: Validated environment
 3. [[Emily Yates — Validating GxP-Compliant R Shiny Apps]] — concrete three-pillar framework for Shiny
 4. [[GSWEP4R Workshop — R Package Engineering Workflow]] — engineering workflow that satisfies GxP
 5. [[Posit — Validated R Package Strategy]] — infrastructure implementation
+6. [[Shiny Testing Overview]] — three-tier test taxonomy for Shiny apps
+7. [[How to Write Robust shinytest2 Tests for R Shiny Apps]] — brittleness prevention patterns
+8. [[GxP Validation in Software Development Starts from the Definition of Done (Appsilon)]] — DoD as GxP mechanism
+9. [[covr R Package]] and `{r4sub}` — coverage evidence and submission readiness scoring
 
 ## Connections
 
 - Regulatory mandate: [[GxP Validation]], [[IND Safety Reporting]] (what the data must support)
 - Data produced by: [[CDISC SDTM]], [[sdtm.oak R Package]]
 - Method comparison: [[Cross-Language Statistical Implementations (R, SAS, Python)]]
+- Shiny testing detail: [[Shiny App Testing in Pharma]], [[shinytest2 R Package]], [[covr R Package]]
+- Submission readiness: [[r4sub R Package]]

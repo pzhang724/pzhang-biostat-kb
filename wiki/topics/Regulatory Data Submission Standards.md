@@ -2,10 +2,10 @@
 title: "Regulatory Data Submission Standards"
 aliases: ["Regulatory Data Submission Standards"]
 type: topic
-tags: [regulatory, fda, cdisc, sdtm, adam, dataset-json, xpt, submission, data-standards]
+tags: [regulatory, fda, cdisc, sdtm, adam, dataset-json, xpt, submission, data-standards, r4sub]
 created: 2026-04-29
-updated: 2026-04-29
-sources: 4
+updated: 2026-04-30
+sources: 7
 ---
 
 # Regulatory Data Submission Standards
@@ -80,12 +80,39 @@ Beyond data structure standards, sponsors have ongoing safety reporting obligati
 7. Write SDRG (Study Data Reviewer's Guide) and ADRG (Analysis Data Reviewer's Guide)
 8. Package in eCTD structure; submit via FDA gateway
 
+## Submission Technical Requirements
+
+The FDA Study Data page (CDER/CBER) specifies **Technical Rejection Criteria** — failures that cause immediate rejection before scientific review:
+
+- SDTM datasets required for NDA/BLA/IND
+- ADaM datasets required with define.xml and ADRG
+- SEND datasets required for nonclinical studies
+- Dataset-JSON v1.1 acceptable since April 2025 Federal Register notice
+- Pinnacle 21 conformance check must show no critical errors
+
+Key referenced guidance documents: SDTMIG, ADaMIG, Study Data Technical Conformance Guide, Define-XML specification.
+
+## Submission Readiness Tooling
+
+`{r4sub}` is a meta-package specifically designed to operationalize submission readiness:
+
+- **SCI scoring** (Submission Compliance Index): automated scoring across SDTM, ADaM, define.xml, ADRG
+- **FMEA risk assessment**: Failure Mode and Effect Analysis for submission components; identifies high-risk gaps before submission
+- **Traceability engine**: maps derivations from raw data through SDTM through ADaM for auditable lineage
+
+See [[r4sub R Package]] for package details.
+
+## Emerging: Real-Time Continuous Review
+
+Paradigm Health's collaboration with the FDA (announced April 28, 2026) explores replacing the traditional batch-submission model with **continuous regulatory review** using AI. The platform ingests EHR data in real time and runs automated safety and efficacy monitoring, potentially allowing regulators to track trial progress during execution rather than reviewing a compiled submission at the end. Partners include Amgen, AstraZeneca, MD Anderson, and University of Pennsylvania. See [[Paradigm Health — FDA Real-Time Review Collaboration (2026)]].
+
 ## Active Debates / Open Questions
 
 - **XPT sunset timeline**: when will FDA set a hard date requiring Dataset-JSON (or deprecating XPT)?
 - **Pinnacle 21 gap**: Pinnacle 21 not supporting Dataset-JSON v1.1 is a practical blocker for industry adoption; resolution timeline unclear
 - **SEND non-clinical**: does Dataset-JSON apply to non-clinical (animal study) SEND submissions?
 - **PMDA and EMA alignment**: FDA re-affirmed Dataset-JSON; whether Japan and Europe will align reduces submission complexity for global programs
+- **Real-time vs. batch submission**: Paradigm Health model could fundamentally change when and how data are submitted; regulatory path unclear
 
 ## Recommended Reading Order
 
@@ -93,6 +120,9 @@ Beyond data structure standards, sponsors have ongoing safety reporting obligati
 2. [[FDA Study Data Technical Conformance Guide]] — regulatory mandate and context
 3. [[Breaking Free from the XPT — Dataset-JSON as Regulatory Transport]] — comprehensive Dataset-JSON motivation, standard, and Pilot 5 implementation
 4. [[Dataset-JSON]] — technical deep-dive on the standard
+5. [[Study Data for Submission to CDER and CBER (FDA)]] — official technical rejection criteria and guidance documents
+6. [[r4sub R Package]] — submission readiness scoring and FMEA
+7. [[Paradigm Health — FDA Real-Time Review Collaboration (2026)]] — emerging AI-based continuous review model
 
 ## Connections
 
@@ -100,3 +130,5 @@ Beyond data structure standards, sponsors have ongoing safety reporting obligati
 - Transport format: [[datasetjson R Package]]
 - Safety obligations: [[IND Safety Reporting]]
 - R ecosystem: [[R Package Validation in Regulated Environments]]
+- Submission readiness: [[r4sub R Package]]
+- Emerging model: [[Paradigm Health — FDA Real-Time Review Collaboration (2026)]]
