@@ -43,7 +43,7 @@ The primary failure mode of Shiny tests is brittleness: tests break when UI is r
 
 ## Definition of Done as GxP Foundation
 
-Appsilon's approach ([[GxP Validation in Software Development Starts from the Definition of Done]]) uses Scrum's DoD as a living GxP checklist:
+Appsilon's approach ([[GxP Validation in Software Development Starts from the Definition of Done (Appsilon)]]) uses Scrum's DoD as a living GxP checklist:
 
 - PR with reviewer; automated tests passing (unit + integration + E2E)
 - CI checks passing (lint, tests); no new warnings/errors

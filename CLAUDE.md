@@ -64,10 +64,19 @@ sources: 1          # count of raw sources that have informed this page
 
 ### File Naming
 
-- `wiki/sources/` — kebab-case matching the source title, e.g. `cox-1972-regression-models.md`
-- `wiki/concepts/` — kebab-case concept name, e.g. `cox-proportional-hazards.md`
-- `wiki/entities/` — kebab-case, e.g. `survival-r-package.md`, `david-cox.md`
-- `wiki/topics/` — kebab-case, e.g. `time-to-event-analysis.md`
+**Critical: the filename basename must equal the frontmatter `title` (so `[[Page Title]]` wiki-links resolve under Quartz).** Quartz turns wiki-links into URL slugs by slugifying the link text — if the file basename slugifies to something different, the published page 404s. Concretely:
+
+- Use the readable title as the filename, including spaces, parentheses, em-dashes, and curly braces. Examples: `ADaM in R Asset Library.md`, `Analysis Results Data ({cards}).md`, `CAMIS — Method Repository Page.md`.
+- Sanitize for Windows-illegal filename chars (`< > : " / \ | ? *`) by editing the title to remove or replace them — do **not** invent a kebab-case alternate. If a title contains `:`, drop the subtitle or rephrase before saving the file.
+- Keep `&` literal in filenames; Quartz slugifies both filename and link text identically (`&` → `-and-`).
+- When you reference a page from another wiki page, use the **exact** title — variants like `[[Pharmaverse Examples (2025)]]` vs `[[Explore the Pharmaverse Examples (2025)]]` will not resolve. Pick one canonical title and update other references to match.
+- One canonical title per file. If multiple natural names exist, choose the one used most often in inbound links and update the rest.
+
+Folder placement (unchanged):
+- `wiki/sources/` — one page per raw source
+- `wiki/concepts/` — statistical concepts, methods, frameworks
+- `wiki/entities/` — people, R packages, software, datasets, organizations
+- `wiki/topics/` — broader syntheses spanning multiple concepts
 
 ---
 

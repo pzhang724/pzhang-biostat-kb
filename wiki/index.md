@@ -32,7 +32,7 @@ Source summary pages — one per raw document ingested.
 - [[Extra Analysis Results Data Utilities ({cardx})]] — {cardx} R package documentation; model-based ARDs: t-tests, MMRM, Cox, regression, survey stats; extends {cards} (1 source)
 
 ### TLG Production
-- [[Explore the Pharmaverse Examples: Your Gateway to Clinical Reporting with Open-Source Tools]] — Doyle & Farrugia 2025 blog; pharmaverse.github.io/examples end-to-end worked clinical reporting examples (1 source)
+- [[Explore the Pharmaverse Examples (2025)]] — Doyle & Farrugia 2025 blog; pharmaverse.github.io/examples end-to-end worked clinical reporting examples (1 source)
 - [[Faster Clinical Trial Reporting — Pharmaverse Beginner Guide]] — Fabian Hee 2025 blog; beginner walkthrough of CDASH→SDTM→ADaM→TLG pipeline with Pharmaverse packages (1 source)
 - [[Create Common TLGs Used in Clinical Trials ({tern})]] — {tern} package documentation; visualization catalog (g_km, g_forest, g_waterfall); analysis functions and summarize_coxreg (1 source)
 - [[Reporting Tables ({rtables})]] — {rtables} package documentation; layout API; design principle of cell values separate from display strings; cell formatting functions (1 source)
@@ -56,7 +56,7 @@ Source summary pages — one per raw document ingested.
 ### Regulatory Submissions
 - [[Introduction — R Submissions Working Group]] — R Consortium WG homepage; 7 pilots (Pilots 6 & 7 launched 2026); mission of demonstrating R-based FDA submissions (1 source)
 - [[Study Data for Submission to CDER and CBER (FDA)]] — FDA CDER/CBER submission page; Technical Rejection Criteria; required standards (SDTMIG, ADaMIG, SEND, define.xml); Dataset-JSON acceptability (1 source)
-- [[Paradigm Health Announces Collaboration with the FDA to Transform Regulatory Review of Clinical Trial Data]] — April 28, 2026 press release; Paradigm Health + FDA AI platform for real-time continuous regulatory review; partners: Amgen, AstraZeneca, MD Anderson, UPenn (1 source)
+- [[Paradigm Health — FDA Real-Time Review Collaboration (2026)]] — April 28, 2026 press release; Paradigm Health + FDA AI platform for real-time continuous regulatory review; partners: Amgen, AstraZeneca, MD Anderson, UPenn (1 source)
 - [[r4sub — Ready for Submission]] — {r4sub} R meta-package; SCI scoring (Submission Compliance Index); FMEA risk assessment; traceability engine; submission readiness checklist (1 source)
 
 ### Statistical Methods

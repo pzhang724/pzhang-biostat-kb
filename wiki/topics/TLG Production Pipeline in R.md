@@ -66,7 +66,7 @@ Both stacks produce ggplot2-based figures. [[patchwork R Package]] enables compo
 ## Learning Resources
 
 - [[TLG Catalog (NEST)]]: comprehensive example catalog (stable + development versions)
-- [[Pharmaverse Examples (2025)]]: end-to-end worked examples across SDTM/ADaM/TLG
+- [[Explore the Pharmaverse Examples (2025)]]: end-to-end worked examples across SDTM/ADaM/TLG
 - [[Faster Clinical Trial Reporting — Pharmaverse Beginner Guide]]: beginner-friendly overview of the full pipeline
 
 ## Connections
