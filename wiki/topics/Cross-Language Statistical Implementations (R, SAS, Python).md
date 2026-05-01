@@ -55,7 +55,7 @@ The FDA's clarifying statement ("FDA does not require any specific software") is
 
 ## Key Methods Reference (CAMIS coverage)
 
-See [[CAMIS — Cross-Language Statistical Method Comparisons (PHUSE)]] and [[CAMIS Method Repository — Full Coverage Table]] for the full table (66+ methods as of 2026). Highlights:
+See [[CAMIS — Cross-Language Statistical Method Comparisons (PHUSE)]] and [[CAMIS — Method Repository Page]] for the full table (66+ methods as of 2026). Highlights:
 
 **Survival**: KM/log-rank/Cox PH, AFT, weighted log-rank, cause-specific hazards, RMST, CIF, recurrent events  
 **Repeated measures**: MMRM, LMM random effects, GLMM, GEE  
@@ -72,7 +72,7 @@ See [[CAMIS — Cross-Language Statistical Method Comparisons (PHUSE)]] and [[CA
 ## Recommended Reading Order
 
 1. [[CAMIS — Cross-Language Statistical Method Comparisons (PHUSE)]] — the primary reference; browse by method
-1a. [[CAMIS Method Repository — Full Coverage Table]] — detailed 66+ method breakdown with category-by-category status
+1a. [[CAMIS — Method Repository Page]] — detailed 66+ method breakdown with category-by-category status
 2. [[Group Sequential Design]] — a well-documented area of cross-language complexity
 3. [[R Package Validation in Regulated Environments]] — the broader validation context
 

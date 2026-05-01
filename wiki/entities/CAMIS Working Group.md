@@ -49,6 +49,6 @@ FDA's Statistical Software Clarifying Statement affirms that it does not require
 
 - Parallel initiative: [[openstatsware]] (software engineering practices)
 - Related entity: [[R Validation Hub]] (validation infrastructure)
-- Related sources: [[CAMIS — Cross-Language Statistical Method Comparisons (PHUSE)]], [[CAMIS Method Repository — Full Coverage Table]]
+- Related sources: [[CAMIS — Cross-Language Statistical Method Comparisons (PHUSE)]], [[CAMIS — Method Repository Page]]
 - Related topic: [[Cross-Language Statistical Implementations (R, SAS, Python)]]
 - Covers: [[Group Sequential Design]], [[CDISC SDTM]] (downstream methods)

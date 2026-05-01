@@ -54,5 +54,5 @@ The ecosystem enables pharmaceutical companies to replace SAS-based workflows wi
 - Related concept: [[CDISC SDTM]], [[CDISC ADaM]], [[Analysis Results Data]]
 - Output format: [[Dataset-JSON]] (R Consortium Pilot 5 demonstrated Pharmaverse packages producing Dataset-JSON)
 - Validation context: [[R Validation Hub]] and [[riskmetric R Package]] assess Pharmaverse package quality
-- Sources: [[SDTM programming in R using {sdtm.oak} package]], [[Pharmaverse Examples (2025)]], [[Faster Clinical Trial Reporting — Pharmaverse Beginner Guide]]
+- Sources: [[SDTM programming in R using {sdtm.oak} package]], [[Explore the Pharmaverse Examples (2025)]], [[Faster Clinical Trial Reporting — Pharmaverse Beginner Guide]]
 - Related topic: [[Regulatory Data Submission Standards]], [[R Package Validation in Regulated Environments]], [[TLG Production Pipeline in R]]

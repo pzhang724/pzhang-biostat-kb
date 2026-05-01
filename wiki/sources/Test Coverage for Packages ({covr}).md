@@ -36,5 +36,5 @@ sources: 1
 ## Connections
 
 - Related entity: [[covr R Package]]
-- Related source: [[Test Coverage for Packages]], [[GSWEP4R Workshop — R Package Engineering Workflow]]
+- Related source: [[GSWEP4R Workshop — R Package Engineering Workflow]]
 - Related topic: [[R Package Validation in Regulated Environments]]

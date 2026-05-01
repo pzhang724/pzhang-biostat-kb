@@ -1,5 +1,5 @@
 ---
-title: "Paradigm Health Announces Collaboration with the FDA to Transform Regulatory Review of Clinical Trial Data"
+title: "Paradigm Health — FDA Real-Time Review Collaboration (2026)"
 type: source
 tags: [paradigm-health, fda, real-time-review, clinical-trials, regulatory, ai, ehr, safety-reporting]
 created: 2026-04-30
@@ -7,7 +7,7 @@ updated: 2026-04-30
 sources: 1
 ---
 
-# Paradigm Health Announces Collaboration with the FDA to Transform Regulatory Review of Clinical Trial Data
+# Paradigm Health — FDA Real-Time Review Collaboration (2026)
 
 **Raw file**: `raw/sources/Paradigm Health Announces Collaboration with the FDA to Transform Regulatory Review of Clinical Trial Data.md`  
 **Author(s)**: Paradigm Health  

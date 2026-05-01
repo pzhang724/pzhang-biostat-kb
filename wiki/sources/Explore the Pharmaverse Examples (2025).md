@@ -1,5 +1,5 @@
 ---
-title: "Explore the Pharmaverse Examples: Your Gateway to Clinical Reporting with Open-Source Tools"
+title: "Explore the Pharmaverse Examples (2025)"
 type: source
 tags: [pharmaverse, clinical-reporting, sdtm, adam, tlg, open-source, examples]
 created: 2026-04-30
@@ -7,7 +7,7 @@ updated: 2026-04-30
 sources: 1
 ---
 
-# Explore the Pharmaverse Examples: Your Gateway to Clinical Reporting with Open-Source Tools
+# Explore the Pharmaverse Examples (2025)
 
 **Raw file**: `raw/sources/Explore the Pharmaverse Examples Your Gateway to Clinical Reporting with Open-Source Tools.md`  
 **Author(s)**: Orla Doyle, Ross Farrugia  
